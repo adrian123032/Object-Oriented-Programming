@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{DC3B55CC-FE4D-4C62-9817-D7AAF633AC90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2", "Week2\Week2.csproj", "{201F877D-096A-43F4-A23F-7F9E812322A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3B55CC-FE4D-4C62-9817-D7AAF633AC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3B55CC-FE4D-4C62-9817-D7AAF633AC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3B55CC-FE4D-4C62-9817-D7AAF633AC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3B55CC-FE4D-4C62-9817-D7AAF633AC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201F877D-096A-43F4-A23F-7F9E812322A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201F877D-096A-43F4-A23F-7F9E812322A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201F877D-096A-43F4-A23F-7F9E812322A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201F877D-096A-43F4-A23F-7F9E812322A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3FFA74-9E98-445A-89C9-6A8F60BDD9C5}
+	EndGlobalSection
+EndGlobal
